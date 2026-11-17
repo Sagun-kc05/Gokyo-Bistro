@@ -1,0 +1,1 @@
+Gokyo Bistro is a proposed online restaurant management system that makes food ordering and table reservations easier for customers while helping the restaurant manage its daily operations.
